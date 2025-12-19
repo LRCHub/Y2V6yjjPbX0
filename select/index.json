@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Fitz and the Tantrums - HandClap [Official Video]",
+  "base_artist": "Fitz & The Tantrums",
+  "createdAt": "2025-12-19T13:34:11.906612Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HandClap - Fitz and The Tantrums",
+      "artist": "[Unknown Artist]",
+      "has_synced": true,
+      "path": "select/01_HandClap_-_Fitz_and_The_Tantrums_[Unknown_Artist].lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fitz and The Tantrums",
+      "artist": "HandClap",
+      "has_synced": true,
+      "path": "select/02_Fitz_and_The_Tantrums_HandClap.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fitz and The Tantrums",
+      "artist": "Maybe Yes",
+      "has_synced": true,
+      "path": "select/03_Fitz_and_The_Tantrums_Maybe_Yes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fitz And The Tantrums- Dear Mr. President",
+      "artist": "Rusting2Dust",
+      "has_synced": false,
+      "path": "select/04_Fitz_And_The_Tantrums-_Dear_Mr._President_Rusting2Dust.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fitz and the Tantrums with Lyrics",
+      "artist": "The Walker",
+      "has_synced": true,
+      "path": "select/05_Fitz_and_the_Tantrums_with_Lyrics_The_Walker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fitz and The Tantrums",
+      "artist": "I Just Wanna Shine",
+      "has_synced": true,
+      "path": "select/06_Fitz_and_The_Tantrums_I_Just_Wanna_Shine.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fitz and the Tantrums LYRICS",
+      "artist": "Out Of My League",
+      "has_synced": true,
+      "path": "select/07_Fitz_and_the_Tantrums_LYRICS_Out_Of_My_League.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fitz and the Tantrums - HandClap",
+      "artist": "Fitz and The Tantrums",
+      "has_synced": true,
+      "path": "select/08_Fitz_and_the_Tantrums_-_HandClap_Fitz_and_The_Tantrums.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fitz and The Tantrums",
+      "artist": "Out of My League",
+      "has_synced": true,
+      "path": "select/09_Fitz_and_The_Tantrums_Out_of_My_League.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fitz and the Tantrums - HandClap [Official Video]",
+      "artist": "Fitz and the Tantrums",
+      "has_synced": true,
+      "path": "select/10_Fitz_and_the_Tantrums_-_HandClap_[Official_Video]_Fitz_and_the_Tantrums.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fitz And The Tantrums - Out Of My League [Official Music Video]",
+      "artist": "Fitz and The Tantrums",
+      "has_synced": true,
+      "path": "select/11_Fitz_And_The_Tantrums_-_Out_Of_My_League_[Official_Music_Video]_Fitz_and_The_Tantrums.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fitz And The Tantrums - Out Of My League",
+      "artist": "Fitz and The Tantrums",
+      "has_synced": true,
+      "path": "select/12_Fitz_And_The_Tantrums_-_Out_Of_My_League_Fitz_and_The_Tantrums.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fitz and the Tantrums - Out of My League (Audio)",
+      "artist": "CF",
+      "has_synced": true,
+      "path": "select/13_Fitz_and_the_Tantrums_-_Out_of_My_League_(Audio)_CF.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Just Wanna Shine (Fitz and the Tantrums)",
+      "artist": "Andy Eslick",
+      "has_synced": true,
+      "path": "select/14_I_Just_Wanna_Shine_(Fitz_and_the_Tantrums)_Andy_Eslick.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Broken Drum (feat. Fitz Of Fitz And The Tantrums)",
+      "artist": "Cash Cash",
+      "has_synced": false,
+      "path": "select/15_Broken_Drum_(feat._Fitz_Of_Fitz_And_The_Tantrums)_Cash_Cash.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Jacked Up (feat. Fitz Of Fitz And The Tantrums Nadya Of Pussy Riot)",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/16_Jacked_Up_(feat._Fitz_Of_Fitz_And_The_Tantrums_Nadya_Of_Pussy_Riot)_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Jacked Up (feat. Fitz of Fitz and the Tantrums & Nadya of Pussy Riot) (Remix)",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/17_Jacked_Up_(feat._Fitz_of_Fitz_and_the_Tantrums_&_Nadya_of_Pussy_Riot)_(Remix)_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Not Leaving You Tonight feat. Fitz and the Tantrums with Eddie Van Halen",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/18_Not_Leaving_You_Tonight_feat._Fitz_and_the_Tantrums_with_Eddie_Van_Halen_LL_Cool_J.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HandClap",
+      "artist": "Fitz & The Tantrums",
+      "has_synced": false,
+      "path": "select/pl_01_HandClap_Fitz_&_The_Tantrums.txt"
+    }
+  ]
+}
